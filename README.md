@@ -9,7 +9,7 @@ With a background in financial client service, I have developed a strong foundat
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Awareness Training                   | <a href="https://google.com">Detection Lab</a>|
+| Security Awareness Training                   | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
 | Phishing Awareness and Prevention             | <a href="https://google.com">Detection Lab</a>|
 | Email Analysis                                | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
