@@ -1,4 +1,4 @@
-# Hello, I'm Dimitry
+# Hi, I'm Dimitry!
 <a href="https://linkedin.com/in/dimitrydecolin"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an aspiring cybersecurity professional driven by a strong desire to learn and a dedication to solving complex problems.
@@ -11,7 +11,7 @@ With a background in financial client service, I have developed a strong foundat
 |-----------------------------------------------|----------------------------|
 | Security Awareness Training                   | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
 | Phishing Awareness and Prevention             | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
-| Email Analysis                                | SOC Automation Lab|
+| Email Analysis                                | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -21,6 +21,7 @@ With a background in financial client service, I have developed a strong foundat
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
