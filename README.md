@@ -22,7 +22,6 @@ With a background in financial client service, I have developed a strong foundat
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
 ### Cloud
