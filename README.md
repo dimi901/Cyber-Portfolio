@@ -12,7 +12,7 @@ With a background in risk management, compliance, and data protection, I have de
 | Security Awareness Training                   | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
 | Phishing Awareness and Prevention             | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
 | Email Analysis                                | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
-| SOC 2      | <a href=" SOC 2 Audit|
+| SOC 2      | <a href="https://github.com/dimi901/SOC-2-Audit">SOC 2 Audit</a>|
 | NIST                 | NIST Assessment|
 
 ## Tools
