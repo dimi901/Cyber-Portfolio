@@ -4,7 +4,7 @@
 I am an aspiring cybersecurity professional driven by a strong desire to learn and a dedication to solving complex problems.
 
 ## Objective
-With a background in financial client service, I have developed a strong foundation in cross-functional collaboration and problem-solving. My journey has led me to discover a passion for cybersecurity, and I am now eager to transition into this field. I aim to leverage my skills and experience to contribute to an innovative cybersecurity team, where I can grow and make an impact.
+With a background in risk management, compliance, and data protection, I have developed expertise in cybersecurity, including cloud security, incident response, and regulatory frameworks such as NIST, ISO 27001, and PCI DSS. I am eager to apply what i've learned to a dynamic cybersecurity team, where I can drive impactful solutions and continue to grow in the field..
 
 ## Skills
 | Skill                                         | Associated Project         |
@@ -12,9 +12,8 @@ With a background in financial client service, I have developed a strong foundat
 | Security Awareness Training                   | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
 | Phishing Awareness and Prevention             | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
 | Email Analysis                                | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SOC 2      | SOC 2 Audit|
+| NIST                 | NIST Assessment|
 
 ## Tools
 
@@ -32,7 +31,6 @@ With a background in financial client service, I have developed a strong foundat
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
@@ -48,3 +46,4 @@ With a background in financial client service, I have developed a strong foundat
 
 ## Projects
 - Phishing Simulation
+- SOC 2 Audit
