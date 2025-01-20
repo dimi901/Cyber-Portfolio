@@ -47,3 +47,4 @@ With a background in risk management, compliance, and data protection, I have de
 ## Projects
 - Phishing Simulation
 - SOC 2 Audit
+- NIST Risk Assessment
