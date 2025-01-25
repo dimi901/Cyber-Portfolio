@@ -13,7 +13,7 @@ With a background in risk management, compliance, and data protection, I have de
 | Phishing Awareness and Prevention             | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
 | Email Analysis                                | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
 | SOC 2 Compliance     | <a href="https://github.com/dimi901/SOC-2-Audit">SOC 2 Audit</a>|
-| NIST SP 800-30                | NIST Risk Assessment (Coming Soon!)|
+| NIST RMF                | NIST Risk Assessment (Coming Soon!)|
 
 ## Tools
 
