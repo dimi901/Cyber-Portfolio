@@ -4,7 +4,7 @@
 I am an aspiring cybersecurity professional driven by a strong desire to learn and a dedication to solving complex problems.
 
 ## Objective
-With a background in risk management, compliance, and data protection, I have developed expertise in cybersecurity, including cloud security, incident response, and regulatory frameworks such as NIST, ISO 27001, and PCI DSS. I am eager to apply what i've learned to a dynamic cybersecurity team, where I can drive impactful solutions and continue to grow in the field..
+With a background in risk management, compliance, and data protection, I am further developing my expertise in cybersecurity, including cloud security, incident response, and regulatory frameworks such as NIST, ISO 27001, and PCI DSS. I am eager to apply what I've learned to a dynamic cybersecurity team, where I can drive impactful solutions and continue to grow in the field.
 
 ## Skills
 | Skill                                         | Associated Project         |
@@ -12,8 +12,9 @@ With a background in risk management, compliance, and data protection, I have de
 | Security Awareness Training                   | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
 | Phishing Awareness and Prevention             | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
 | Email Analysis                                | <a href="https://github.com/dimi901/Phishing-Simulation">Phishing Simulation</a>|
-| SOC 2 Compliance     | <a href="https://github.com/dimi901/SOC-2-Audit">SOC 2 Audit</a>|
-| NIST SP 800-30                | <a href="https://github.com/dimi901/NIST-Risk-Assessment/blob/main/README.md#nist-risk-assessment">NIST Risk Assessment</a>|
+| SOC 2 Compliance                              | <a href="https://github.com/dimi901/SOC-2-Audit">SOC 2 Audit</a>|
+| NIST SP 800-30                                | <a href="https://github.com/dimi901/NIST-Risk-Assessment/blob/main/README.md#nist-risk-assessment">NIST Risk Assessment</a>|
+| NIST AI RMF                                   | NIST AI Risk Assessment (Coming Soon!)|
 
 ## Tools
 
