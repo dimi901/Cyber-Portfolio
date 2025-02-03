@@ -4,7 +4,7 @@
 I am an aspiring cybersecurity professional driven by a strong desire to learn and a dedication to solving complex problems.
 
 ## Objective
-With a background in risk management, compliance, and data protection, I am further developing my expertise in cybersecurity, including cloud security, incident response, and regulatory frameworks such as NIST, ISO 27001, and PCI DSS. I am eager to apply what I've learned to a dynamic cybersecurity team, where I can drive impactful solutions and continue to grow in the field.
+With a background in risk management, compliance, and data protection, I am further developing my expertise in cybersecurity, including cloud security, incident response, and regulatory frameworks such as NIST, ISO 27001, and PCI DSS. I am eager to apply what I've learned to a proactive cybersecurity team, where I can drive impactful solutions and continue to grow in the field.
 
 ## Skills
 | Skill                                         | Associated Project         |
