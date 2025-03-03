@@ -43,6 +43,7 @@ With a background in risk management, compliance, and data protection, I am furt
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2%20CC-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 </div>
 
 ## Projects
